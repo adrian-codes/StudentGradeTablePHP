@@ -1,0 +1,15 @@
+#student_grade_table tr:nth-child(even) {
+    background: lightgray;
+}
+
+.highestRow {
+    background: green !important;
+}
+
+.lowestRow {
+    background: red !important;
+}
+
+#btn{
+    background-color: white;   
+}
